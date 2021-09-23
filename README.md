@@ -29,8 +29,3 @@ https://www.autohotkey.com/
 | system-lock | Void |
 | printscreen | Void |
 | system-sound-output | name of device eg. Speakers, Headphones |
-
-
-
-
-
